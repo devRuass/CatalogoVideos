@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+section{
+    background-color: aquamarine;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+    
+}

@@ -1,8 +1,13 @@
 body{
     background-color: black;
     color: white;
+
 }
 
+header{
+    font-family: "Chakra Petch", sans-serif;
+    font-size: 40px;
+}
 section{
     background-color:cadetblue;
     padding-bottom: 5%;

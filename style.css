@@ -9,11 +9,11 @@ header{
     font-size: 40px;
 }
 section{
-    background-color:cadetblue;
+    background-color:cornsilk;
     padding-bottom: 5%;
     padding-top: 5%;
     display: flex;
-    justify-content:left;  
+    justify-content: right;  
 }
 .texto{
     margin-right: 5%:

@@ -16,10 +16,13 @@ section{
     display: flex;
     justify-content: center;  
 }
+.texto{
+    margin-right: 5%;
+}
 img {
     height: 200px;
 }
-.categorias-videos{
+.categoria-videos{
     display: flex;
     overflow-x: auto;
     gap: 10px;

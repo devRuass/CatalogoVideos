@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color:lightgrey;
     color: gainsboro;
 
 }
@@ -17,7 +17,7 @@ section{
     justify-content: center;  
 }
 header {
-    border-bottom: solid 2px royalblue;
+    border-bottom: solid 2px cadetblue;
     padding: 20px;
     font-size: 32px;
     color:gainsboro;

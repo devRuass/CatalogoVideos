@@ -16,6 +16,13 @@ section{
     display: flex;
     justify-content: center;  
 }
+header {
+    border-bottom: solid 2px royalblue;
+    padding: 20px;
+    font-size: 32px;
+    color:cadetblue
+
+}
 .texto{
     margin-right: 5%;
 }
@@ -26,4 +33,8 @@ img {
     display: flex;
     overflow-x: auto;
     gap: 10px;
+}
+
+.lista{
+    background-color: darkgray;
 }

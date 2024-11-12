@@ -26,8 +26,15 @@ header {
 .texto{
     margin-right: 5%;
 }
-img {
+.categoria-videos img {
+
     height: 200px;
+    opacity: 0.5;
+}
+
+.categoria-videos img:hover{
+    opacity: 1.0;
+    border: 1px solid gainsboro;
 }
 .categoria-videos{
     display: flex;
